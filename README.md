@@ -2,10 +2,10 @@
 
 A secure cloud-based file storage application that allows users to register, log in, upload files to Cloudinary, view uploaded files, search files, and delete files. The application uses JWT authentication to ensure secure access.
 
-# ☁️ Secure Cloud File Storage System
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ---
 
 ## 🚀 Features
